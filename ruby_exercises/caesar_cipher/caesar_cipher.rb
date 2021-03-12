@@ -20,6 +20,7 @@ def caesar_cipher(str, num)
     result
 end
 
+
 msg = 'SW DFG HJKL'
 msg = caesar_cipher(msg, 5)
 puts msg
